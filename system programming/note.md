@@ -61,3 +61,8 @@ End-game scenarios and score management are handled to provide feedback to the p
 ## Conclusion
 
 This program demonstrates essential system programming techniques in C++ using the ncurses library, suitable for real-time applications that require direct terminal manipulation and asynchronous input handling.
+
+
+### game playing record 
+
+<img src = "https://github.com/user-attachments/assets/abbf0605-e73c-4ff3-b033-1a144ae8fe2d" > 
